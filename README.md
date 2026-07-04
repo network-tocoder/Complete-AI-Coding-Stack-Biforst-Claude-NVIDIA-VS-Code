@@ -20,7 +20,7 @@ This repository is part of a **3-part AI Gateway series**. Each video has a matc
 | ⚡ **Part 2** | Unlimited Claude + Gemini + OpenCode with Bifrost | [▶️ YouTube](https://www.youtube.com/watch?v=LOrjVQnA4EY) • [📂 GitHub](https://github.com/network-tocoder/Unlimited-Claude-Gemini-OpenCode-with-Bifrost) |
 | 🔥 **Part 3** | Complete $0 AI Coding Stack (Bifrost + Claude + NVIDIA + VS Code) | [▶️ YouTube](https://www.youtube.com/watch?v=LzPvQAkQ8tw) • [📂 GitHub](https://github.com/network-tocoder/Complete-AI-Coding-Stack-Biforst-Claude-NVIDIA-VS-Code) |
 
-> 📚 **Recommended:** Start with **Part 1** if you're new to AI Gateways, then continue through Parts 2 and 3 to build the complete production-ready stack.
+📚 **Recommended:** Start with **Part 1** if you're new to AI Gateways, then continue through Parts 2 and 3 to build the complete production-ready stack.
 
 ---
 
