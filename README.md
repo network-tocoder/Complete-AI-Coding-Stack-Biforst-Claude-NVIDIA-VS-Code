@@ -12,17 +12,15 @@
 
 ## 🎓 Complete AI Gateway Masterclass (Free)
 
-✅ **Part 1:** Claude Desktop Without Anthropic (AI Gateway Basics)
+This repository is part of a **3-part AI Gateway series**. Each video has a matching GitHub repository with all commands, configs, and source files.
 
-✅ **Part 2:** Unlimited Claude + Gemini + OpenCode with Bifrost
+| Part | Topic | Links |
+| :--- | :--- | :--- |
+| 🚀 **Part 1** | Claude Desktop Without Anthropic (AI Gateway Basics) | [▶️ YouTube](https://www.youtube.com/watch?v=4DlNb2weD_s) • [📂 GitHub](https://github.com/network-tocoder/Claude-Desktop-Without-Anthropic-AI-Gateway-Basics) |
+| ⚡ **Part 2** | Unlimited Claude + Gemini + OpenCode with Bifrost | [▶️ YouTube](https://www.youtube.com/watch?v=LOrjVQnA4EY) • [📂 GitHub](https://github.com/network-tocoder/Unlimited-Claude-Gemini-OpenCode-with-Bifrost) |
+| 🔥 **Part 3** | Complete $0 AI Coding Stack (Bifrost + Claude + NVIDIA + VS Code) | [▶️ YouTube](https://www.youtube.com/watch?v=LzPvQAkQ8tw) • [📂 GitHub](https://github.com/network-tocoder/Complete-AI-Coding-Stack-Biforst-Claude-NVIDIA-VS-Code) |
 
-✅ **Part 3:** Complete $0 AI Coding Stack (Claude + NVIDIA + VS Code)
-
-> Watch the series in order to build the complete setup from scratch.
-
-[▶ Part 1](https://www.youtube.com/watch?v=4DlNb2weD_s) •
-[▶ Part 2](https://www.youtube.com/watch?v=LOrjVQnA4EY) •
-[▶ Part 3](https://www.youtube.com/watch?v=LzPvQAkQ8tw)
+> 📚 **Recommended:** Start with **Part 1** if you're new to AI Gateways, then continue through Parts 2 and 3 to build the complete production-ready stack.
 
 ---
 
